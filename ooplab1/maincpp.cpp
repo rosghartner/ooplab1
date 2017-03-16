@@ -33,6 +33,5 @@ int main()
 	objperson.setInfo(year, telephone, weight, height, lastname, firstname, secondname, adress, gender);
 	objperson.printInfo();
 	delete humans;
-	system("pause");
 	return 0;
 }
